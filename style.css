@@ -43,6 +43,29 @@
     --primary-font: 'Rubik', sans-serif;
     --secondary-font: 'Roboto', sans-serif;
 }
+/* dark mode css */
+/* #icon{
+    width: 30px;
+    cursor: pointer;
+
+}
+.dark-theme{
+    /* Background Color */
+    /* --primary-color: #4458dc;
+    --secondary-color: #854fee;
+    --bg-white: #000;
+    --bg-light: #000;
+    --bg-black: #fff;
+    --bg-gray: #000;
+    --gradient: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee);
+
+    /* Text Color */
+    /* --primary-text: #4458dc;
+    --secondary-text: #854fee;
+    --text-white: #000;
+    --text-black:  #fff;
+    --text-gray: #777;
+}  */
 
 body {
     font-family: var(--secondary-font);
